@@ -86,9 +86,8 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate, onOpenRfp, lan
             <div className="lg:col-span-6">
               <div className="relative aspect-video rounded-xl overflow-hidden border border-slate-200 shadow-lg bg-slate-100">
                 <img
-                  src="/src/assets/images/ptp_modeling_hydrodynamics_1791622399488.jpg"
+                  src="/images/modeling_hydrodynamics.jpg"
                   alt="PTP Co Senior Engineering Team"
-                  referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
                 />
               </div>

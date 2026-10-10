@@ -200,7 +200,7 @@ export const PROJECTS_DATA: Project[] = [
       "طراحی محافظت در برابر آبشستگی بستر و مبانی ژئوتکنیک دریایی",
       "برنامه پایش و کاهش اثرات زیست‌محیطی (EMP)"
     ],
-    image: "/src/assets/images/ptp_project_jetty_intake_1791622387563.jpg",
+    image: "/images/project_jetty_intake.jpg",
     metrics: [
       { label: "Water Depth", labelFa: "عمق پای اسکله", value: "-14.5m CD" },
       { label: "Berth Capacity", labelFa: "ظرفیت شناور", value: "3,500 DWT" },
@@ -256,7 +256,7 @@ export const PROJECTS_DATA: Project[] = [
       "طراحی شبکه تاسیسات زیربنایی، اطفا حریق و کانال‌های برق",
       "تاییدیه رسمی مطالعات زیست‌محیطی از مراجع ذی‌ربط سازمان بنادر"
     ],
-    image: "/src/assets/images/ptp_hero_marine_port_1791622375662.jpg",
+    image: "/images/hero_marine_port.jpg",
     metrics: [
       { label: "Total Area", labelFa: "مساحت کل اراضی", value: "2,000,000 m²" },
       { label: "Container Capacity", labelFa: "ظرفیت کانتینری", value: "450,000 TEU" },
@@ -312,7 +312,7 @@ export const PROJECTS_DATA: Project[] = [
       "شبیه‌سازی بیلان شوری و اکسیژن‌رسانی به تالاب میانکاله",
       "ارائه راهکارهای سیاستی به کارگروه ملی نجات خلیج گرگان در هیئت دولت"
     ],
-    image: "/src/assets/images/ptp_modeling_hydrodynamics_1791622399488.jpg",
+    image: "/images/modeling_hydrodynamics.jpg",
     metrics: [
       { label: "Waterbody Modeled", labelFa: "مساحت پهنه آبی مدلسازی", value: "400 km²" },
       { label: "Dredging Volume", labelFa: "حجم لایروبی طراحی‌شده", value: "1.2M m³" },
@@ -368,7 +368,7 @@ export const PROJECTS_DATA: Project[] = [
       "دفترچه محاسبات تغییر مکان‌های نسبی و تنش‌های بحرانی اتصالات",
       "تاییدیه رسمی کمیته عالی فنی و نظارتی شهرداری تهران"
     ],
-    image: "/src/assets/images/ptp_hero_marine_port_1791622375662.jpg",
+    image: "/images/hero_marine_port.jpg",
     metrics: [
       { label: "Total Length", labelFa: "طول کلی پل", value: "270 meters" },
       { label: "Steel Weight", labelFa: "وزن سازه فولادی", value: "2,000 tonnes" },
@@ -424,7 +424,7 @@ export const PROJECTS_DATA: Project[] = [
       "دفترچه محاسبات مهاری و هیدرودینامیکی پانتون‌های شناور",
       "طراحی سازوکار بای‌پاس رسوب برای پیشگیری از فرسایش سواحل مجاور"
     ],
-    image: "/src/assets/images/ptp_coastal_survey_vessel_1791622411086.jpg",
+    image: "/images/coastal_survey_vessel.jpg",
     metrics: [
       { label: "Berth Capacity", labelFa: "ظرفیت پهلوگیری شناور", value: "85 Leisure/Ferry" },
       { label: "Breakwater Length", labelFa: "طول موج‌شکن", value: "420 meters" },
@@ -480,7 +480,7 @@ export const PROJECTS_DATA: Project[] = [
       "اسناد مناقصه و راهنمای بازرسی‌های دوره‌ای مقیم",
       "آرشیو ویدئویی و گزارش‌های تصویری بازرسی غواصی زیر آب"
     ],
-    image: "/src/assets/images/ptp_project_jetty_intake_1791622387563.jpg",
+    image: "/images/project_jetty_intake.jpg",
     metrics: [
       { label: "Berth Length", labelFa: "طول پیشانی اسکله", value: "580 meters" },
       { label: "Design Vessel", labelFa: "شناور مبنای طراحی", value: "25,000 DWT" },
@@ -532,7 +532,7 @@ export const PROJECTS_DATA: Project[] = [
       "نقشه‌های دانه‌بندی سنگ‌های آرمور و چیدمان قطعات بتنی آکروپود ۲",
       "طراحی علائم کمک‌ناوبری و فونداسیون چراغ دریایی ورودی"
     ],
-    image: "/src/assets/images/ptp_hero_marine_port_1791622375662.jpg",
+    image: "/images/hero_marine_port.jpg",
     metrics: [
       { label: "Breakwater Ext.", labelFa: "افزایش طول موج‌شکن", value: "650 meters" },
       { label: "Dredging Savings", labelFa: "کاهش هزینه لایروبی", value: "35% Annually" },
@@ -586,7 +586,7 @@ export const PROJECTS_DATA: Project[] = [
       "نقشه‌ها و محاسبات افت هیدرولیکی نازل‌های دیفیوزر زیرآبی",
       "اسناد انطباق با ضوابط سازمان حفاظت محیط زیست دریایی خلیج فارس"
     ],
-    image: "/src/assets/images/ptp_modeling_hydrodynamics_1791622399488.jpg",
+    image: "/images/modeling_hydrodynamics.jpg",
     metrics: [
       { label: "Discharge Volume", labelFa: "دبی کل تخلیه", value: "85 m³/s" },
       { label: "Outfall Diffusers", labelFa: "تعداد نازل‌های تخلیه", value: "24 Nozzles" },
@@ -640,7 +640,7 @@ export const PROJECTS_DATA: Project[] = [
       "مدل‌های رقومی ارتفاعی با رزولوشن بالا (DEM) از نوار ساحلی",
       "نقشه‌های پهنه‌بندی ریسک سونامی و مبانی هشدار سریع مخاطرات ساحلی"
     ],
-    image: "/src/assets/images/ptp_coastal_survey_vessel_1791622411086.jpg",
+    image: "/images/coastal_survey_vessel.jpg",
     metrics: [
       { label: "Survey Length", labelFa: "طول نوار ساحلی پایش", value: "310 km" },
       { label: "Water Depths", labelFa: "عمق برداشت هیدروگرافی", value: "Up to -120m" },

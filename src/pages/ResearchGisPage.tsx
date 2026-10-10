@@ -257,9 +257,8 @@ export const ResearchGisPage: React.FC<ResearchGisPageProps> = ({
               <div className="lg:col-span-6">
                 <div className="relative aspect-video rounded-xl overflow-hidden border border-slate-200 shadow-lg bg-slate-900">
                   <img
-                    src="/src/assets/images/ptp_modeling_hydrodynamics_1791622399488.jpg"
+                    src="/images/modeling_hydrodynamics.jpg"
                     alt="GIS Coastal Spatial Mapping"
-                    referrerPolicy="no-referrer"
                     className="w-full h-full object-cover opacity-80"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent flex items-end p-5">

@@ -57,9 +57,8 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Background Image Layer with gradient scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/ptp_hero_marine_port_1791622375662.jpg"
+            src="/images/hero_marine_port.jpg"
             alt="Deepwater Marine Port and Industrial Breakwater Engineered by PTP Co"
-            referrerPolicy="no-referrer"
             className="w-full h-full object-cover object-center brightness-[0.45] contrast-[1.1]"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-slate-950 via-slate-950/80 to-transparent" />
@@ -520,9 +519,8 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="lg:col-span-6">
               <div className="relative aspect-video rounded-xl overflow-hidden border border-slate-700 shadow-2xl bg-slate-950">
                 <img
-                  src="/src/assets/images/ptp_modeling_hydrodynamics_1791622399488.jpg"
+                  src="/images/modeling_hydrodynamics.jpg"
                   alt="Hydrodynamic Wave Simulation Office at PTP Co"
-                  referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute bottom-3 left-3 right-3 bg-slate-950/80 backdrop-blur-md p-3 rounded-lg border border-slate-800 text-[11px] text-slate-300 flex items-center justify-between">
@@ -545,9 +543,8 @@ export const HomePage: React.FC<HomePageProps> = ({
             <div className="lg:col-span-6 order-2 lg:order-1">
               <div className="relative aspect-video rounded-xl overflow-hidden border border-slate-200 shadow-lg bg-slate-100">
                 <img
-                  src="/src/assets/images/ptp_coastal_survey_vessel_1791622411086.jpg"
+                  src="/images/coastal_survey_vessel.jpg"
                   alt="Specialized Marine Bathymetric Survey Vessel"
-                  referrerPolicy="no-referrer"
                   className="w-full h-full object-cover"
                 />
                 <div className="absolute bottom-3 left-3 right-3 bg-white/90 backdrop-blur-md p-3 rounded-lg border border-slate-200 text-[11px] text-slate-700 flex items-center justify-between">
